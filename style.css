@@ -1,0 +1,21 @@
+:root {
+  --darkcolor: rgb(85, 52, 96);
+  --lightcolor: rgb(222, 222, 224);
+  --maincolor: rgb(131, 33, 97);
+
+}
+
+/* navbar CSS */
+.navbar-custom{
+    padding: 20px;
+    background-color: var(--maincolor);  
+}
+h1{
+    font-size: 40px !important;
+    font-family: fantasy;
+}
+.nav-items-custom {
+    display: flex;
+    justify-content: flex-end;
+    font-size: 20px;
+}
