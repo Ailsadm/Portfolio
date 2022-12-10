@@ -22,7 +22,7 @@ h1{
 
 /* hero banner CSS */
 .jumbotron-custom {
-    background-image: url("./02-hero-bg.jpg");
+    background-image: url("./images/02-hero-bg.jpg");
     display: flex;
     padding: 50px;
     background-position: center;
