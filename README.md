@@ -14,6 +14,6 @@ Portfolio showcasing projects completed during Bootcamp. Using Boostrap componen
 
 * Link to deployed application:
 
-* https://ailsadm.github.io/Bootcamp-pre-work/
+* https://ailsadm.github.io/Bootstrap-Portfolio/
 
   
