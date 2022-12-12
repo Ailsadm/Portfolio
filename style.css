@@ -15,8 +15,6 @@ h1{
     font-family: fantasy;
 }
 .nav-items-custom {
-    display: flex;
-    justify-content: flex-end;
     font-size: 20px;
 }
 
@@ -47,7 +45,6 @@ h1{
 
   .section-headers{
     color: var(--maincolor);
-    /* text-align: right; */
     padding: 20px;
     font-family: fantasy;
   }
